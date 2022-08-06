@@ -15,11 +15,11 @@
     padding-bottom:30px;
 }
 .nav-item {
-    margin-left:70px !important
+    margin-left:110px !important
 }
 .welcome-row{
-    height:250px;
-    background: #ffd375;
+    height:220px;
+    background: #fcf3cf;
     padding:60px;
     text-align: justify;
 }
@@ -27,16 +27,17 @@
     width:67%;
     font-size: 1rem;
     font-family: 'Montserrat' !important;
-    letter-spacing: 1.4px;
+    letter-spacing: 1.9px;
+   
 }
 .content-box{
     margin-top: 70px !important;
-    height:240px;
-    background-color: grey;
+    height:200px;
+    background-color: #d6dbdf;
 }
 .cognizance-box{
      margin-top: 70px !important;
-    background-color: grey !important;
+    background-color: #fdebd0 !important;
     height:240px;
 
 }
@@ -46,7 +47,7 @@
 
 }
 .resume-row{
-    padding-top:100px;
+    padding-top:70px;
     font-size: 2rem;
     font-family: 'Montserrat' !important;
     letter-spacing: 2.7px;
@@ -56,8 +57,8 @@
 a:hover{
     text-decoration: none !important;
 }
-.content-box:hover{
-background: #c94a4a;
+.h-box:hover{
+border:3px solid black;
 
 }
 
@@ -78,7 +79,7 @@ background: #c94a4a;
 
 .blazer-content{
      
-    background-color: #347235 !important;
+    background-color: #d4efdf !important;
     padding-top:100px;
     font-size: 2rem;
     font-family: 'Montserrat' !important;
@@ -88,7 +89,7 @@ background: #c94a4a;
 
 .shirt-content{
      
-    background-color: #990000 !important;
+    background-color: #fadbd8 !important;
     padding-top:100px;
     font-size: 2rem;
     font-family: 'Montserrat' !important;
