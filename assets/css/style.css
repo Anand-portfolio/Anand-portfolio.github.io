@@ -18,8 +18,8 @@
     margin-left:110px !important
 }
 .welcome-row{
-    height:220px;
-    background: #fcf3cf;
+    height:auto;
+    background: #fad7a0;
     padding:60px;
     text-align: justify;
 }
@@ -33,11 +33,11 @@
 .content-box{
     margin-top: 70px !important;
     height:200px;
-    background-color: #d6dbdf;
+    background-color: #ccd1d1;
 }
 .cognizance-box{
      margin-top: 70px !important;
-    background-color: #fdebd0 !important;
+    background-color: #f9e79f !important;
     height:240px;
 
 }
@@ -51,7 +51,7 @@
     font-size: 2rem;
     font-family: 'Montserrat' !important;
     letter-spacing: 2.7px;
-    color:azure
+    color:rgb(59, 103, 161)
 
 }
 a:hover{
@@ -67,6 +67,12 @@ border:3px solid black;
     background-image: url('../img/02.jpg') !important;
     height:240px !important
 }
+
+.blazer-img{
+    background-size:cover !important; 
+    background-image: url('../img/cover1\ .jpg') !important;
+    height:240px !important
+}
 .cognizance-content{
      
     background-color: #ffe3a8 !important;
@@ -79,7 +85,7 @@ border:3px solid black;
 
 .blazer-content{
      
-    background-color: #d4efdf !important;
+    background-color: #a9dfbf !important;
     padding-top:100px;
     font-size: 2rem;
     font-family: 'Montserrat' !important;
@@ -89,10 +95,10 @@ border:3px solid black;
 
 .shirt-content{
      
-    background-color: #fadbd8 !important;
+    background-color: #f5b7b1 !important;
     padding-top:100px;
     font-size: 2rem;
     font-family: 'Montserrat' !important;
     letter-spacing: 2.7px;
-    color:rgb(255, 255, 255)
+    color:rgb(116, 6, 6)
 }
