@@ -73,6 +73,11 @@ border:3px solid black;
     background-image: url('../img/cover1\ .jpg') !important;
     height:240px !important
 }
+.shirt-img{
+    background-size:cover !important; 
+    background-image: url('../img/Untitled-xx.jpg') !important;
+    height:240px !important
+}
 .cognizance-content{
      
     background-color: #ffe3a8 !important;
@@ -101,4 +106,25 @@ border:3px solid black;
     font-family: 'Montserrat' !important;
     letter-spacing: 2.7px;
     color:rgb(116, 6, 6)
+}
+
+
+.kids-content{
+     
+    background-color: #aed6f1 !important;
+    padding-top:100px;
+    font-size: 2rem;
+    font-family: 'Montserrat' !important;
+    letter-spacing: 2.7px;
+    color:rgb(116, 6, 6)
+}
+
+.kids-img{
+    background-size:cover !important; 
+    background-image: url('../img/coveer\ kidsw.jpg') !important;
+    height:240px !important
+}
+footer{
+    margin:50px;
+    border-top:2px solid black;
 }
