@@ -13,11 +13,13 @@
 }
 .title-row{
     padding-bottom:30px;
+    
 }
 .nav-item {
     margin-left:110px !important
 }
 .welcome-row{
+    margin-top: 200px;
     height:auto;
     background: #fad7a0;
     padding:60px;
@@ -127,4 +129,5 @@ border:3px solid black;
 footer{
     margin:50px;
     border-top:2px solid black;
+   
 }
